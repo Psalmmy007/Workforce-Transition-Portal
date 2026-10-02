@@ -1,0 +1,26 @@
+# Python & OS Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+Thumbs.db
+venv/
+.env
+.ipynb_checkpoints/
+~$*
+
+# Scratch Builder Scripts (not needed for deployment or evaluation)
+build_*.py
+logo_b64.txt
+test_doc.html
+test_output.pdf
+CareerGPS_Project_Documentation.html
+
+# Intermediate Scratch Images
+page_*.png
+header_banner_raw.png
+emblem.png
+logo_circle.png
+icons/
+icons_pro/
